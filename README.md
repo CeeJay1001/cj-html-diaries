@@ -1,4 +1,4 @@
-# 💻 Cece's HTML Diaries: Chapter 1 ✨
+# 💻 CJ's HTML Diaries: Chapter 1 ✨
 
 Welcome to my first-ever live website hosted with GitHub Pages! This is part of my journey learning HTML and building a space that reflects my personality, interests, and tomboy-coded tech queen energy 😎💅🏽
 
@@ -27,4 +27,4 @@ Welcome to my first-ever live website hosted with GitHub Pages! This is part of 
 Stay tuned for more chapters in the **HTML Diaries** as I level up my web dev game 💻🔥
 
 —
-**Made with love by Cece 💖**
+**Made with love by CeeJay 💖**
